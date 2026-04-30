@@ -2,9 +2,7 @@
 
 ![FC Tools Banner](docs/images/banner.png)
 
-<br />
 
-<img src="docs/images/logo.png" alt="FC Tools Logo" width="140" />
 
 # FC Tools
 
