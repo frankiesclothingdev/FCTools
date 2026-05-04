@@ -31,6 +31,7 @@ Design, preview and ship MP clothing — from your Photoshop canvas to a ready-t
 - [Updating](#updating)
 - [Uninstall](#uninstall)
 - [Support](#support)
+- [Credits](#credits)
 - [License](#license)
 
 ---
@@ -203,6 +204,15 @@ That's it — FC Tools doesn't run installers, services or background processes.
 
 ---
 
+## Credits
+
+FC Tools is built on top of incredible open-source work from the GTA V modding community. Huge shout-out to:
+
+- **[CodeWalker](https://github.com/dexyfex/CodeWalker)** by **dexyfex** — FC Tools uses the `CodeWalker.Core` library for reading and writing GTA V resource files (RPF archives, YDD drawables, YTD textures, YMT meta files and YFT fragments). Without dexy's reverse-engineering and open-source release of CodeWalker, none of the GTA-V-specific tooling in FC Tools — or in most of the modding ecosystem — would exist. Thank you.
+
+CodeWalker is distributed under the MIT License. The full third-party licenses bundled with the release are listed in `wwwroot/legal/third-party-notices.txt` inside the download.
+---
+
 ## License
 
 FC Tools is proprietary software. The application is licensed to you under the End-User License Agreement included with the download. Source code is **not** distributed — this repository hosts the official downloads only.
@@ -214,3 +224,4 @@ FC Tools is proprietary software. The application is licensed to you under the E
 **© Frankie's Clothing — All rights reserved.**
 
 </div>
+
