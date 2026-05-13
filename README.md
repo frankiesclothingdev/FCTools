@@ -14,7 +14,7 @@ Design, preview and ship MP clothing — from your Photoshop canvas to a ready-t
 [![Downloads](https://img.shields.io/github/downloads/frankiesclothingdev/FCTools/total?style=for-the-badge&color=8b5cf6)](https://github.com/frankiesclothingdev/FCTools/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078d4?style=for-the-badge)](#system-requirements)
 
-[**Download**](https://github.com/frankiesclothingdev/FCTools/releases/latest) · [**Report a Bug**](https://github.com/frankiesclothingdev/FCTools/issues) · [**Discord**](https://discord.gg/)
+[**Download**](https://github.com/frankiesclothingdev/FCTools/releases/latest) · [**Report a Bug**](https://github.com/frankiesclothingdev/FCTools/issues) · [**Discord**](https://discord.gg/VCZqDY67xH)
 
 </div>
 
